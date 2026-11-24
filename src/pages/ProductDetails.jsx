@@ -230,7 +230,7 @@ export default function ProductDetails() {
                 </div>
 
                 {/* Title */}
-                <h1 className="text-2xl sm:text-3xl font-semibold text-neutral-900 tracking-tight leading-snug">
+                <h1 className="text-xl sm:text-2xl lg:text-3xl font-semibold text-neutral-900 tracking-tight leading-snug">
                   {name}
                 </h1>
 

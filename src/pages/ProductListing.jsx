@@ -48,7 +48,7 @@ export default function ProductListing() {
                 <span>/</span>
                 <span>SERIES 2026</span>
               </div>
-              <h1 className="text-2xl sm:text-4xl font-semibold tracking-tight text-neutral-900">
+              <h1 className="text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-tight text-neutral-900">
                 Hardware and Instruments
               </h1>
               <p className="text-sm sm:text-base text-neutral-600 leading-relaxed">
